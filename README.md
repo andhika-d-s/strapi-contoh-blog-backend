@@ -1,3 +1,3 @@
-# Strapi application
+# Learn Strapi application 
 
-A quick description of your strapi application
+Belajar menggunakan strapi cms sebagai backend API 
